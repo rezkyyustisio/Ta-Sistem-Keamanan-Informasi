@@ -5,4 +5,4 @@ Tugas akhir mata kuliah Sistem Keamanan Informasi. Dosen pengampu mata kuliah ba
 Aplikasi ini berfungsi untuk mempercepat kinerja komputer dibantu dengan aplikasi pihak ketiga bernama Advanced SystemCare.
 
 ---------------------------------------------------------------------------------------------------------------------------
-Sebelum menggunakan aplikasi Fastcom, harap menginstal terlebih dahulu aplikasi Advanced SystemCare pada website https://www.iobit.com/en/advancedsystemcarefree.php
+Sebelum menggunakan aplikasi Fastcom, pastikan telah menginstall aplikasi Advanced SystemCare pada website https://www.iobit.com/en/advancedsystemcarefree.php
